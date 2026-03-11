@@ -1,1 +1,1 @@
-{ "scripts": { "dev": "echo \"DEV ACTIVE (D: DRIVE)...\" && npm dev-stub" } }
+{ "scripts": { "dev": "next dev" } }
